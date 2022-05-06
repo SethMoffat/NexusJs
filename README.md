@@ -18,3 +18,6 @@ Database:
 3. posts user has made
 4. comments
 5. other user data
+
+----------------
+This project is incomplete
