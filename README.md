@@ -2,13 +2,13 @@ NexusJs
 --------------------
 
 DESCRIPTION:
-NexusJs is a social network for developers. What sets NexusJs apart from websites like stack overflow is that it's sole focus is on web developement. It is a place where developers can make an account and share code with other developers on forums. Each account will be customizable.
+NexusJs is a social network for developers. This is a tool web developers can use to get help with their code.
 -----------------------
 MVP:
 1. Users can create an account
 2. Users can login to account
-3. User can post code to a forum
-4. user can post comments on other posts
+3. User can chat with other users
+4. user can post pictures and screenshots in the chat
 5. Each user's profile is customizable
 -------------------------------------
 Database:
@@ -16,8 +16,7 @@ Database:
 1. register data
 2. login data
 3. posts user has made
-4. comments
-5. other user data
+4. other user data
 
 ----------------
 This project is incomplete
