@@ -19,4 +19,4 @@ Database:
 4. other user data
 
 ----------------
-This project is incomplete
+This project is in beta
