@@ -20,3 +20,4 @@ Database:
 
 ----------------
 This project is in beta
+and a little bit depricated tbh
