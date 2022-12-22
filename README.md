@@ -23,3 +23,4 @@ This project is in beta
 and a little bit depricated tbh
 I might remake this with react later
 I'll use flutter ... maybe
+Nah
