@@ -25,3 +25,4 @@ I might remake this with react later
 I'll use flutter ... maybe
 
 Nah
+badabing
